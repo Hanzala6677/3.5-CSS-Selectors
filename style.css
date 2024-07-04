@@ -1,0 +1,46 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+/* Write your CSS below, don't change the rules above. */
+#first{
+  color: rgb(100, 91, 91);
+}
+h2{
+  color: rgb(118, 124, 106);
+}
+.jojo{
+  color: rgb(0, 0, 0);
+}
+.highlight{
+  color: rgba(41, 20, 20, 0.589);
+}
+p{
+  font-size:xx-large;
+}
+li{
+  font-size:large;
+}
+.highlight{
+ font-size: x-large;
+}
+li{
+  color: rgb(115, 116, 107);
+}
+.jojo{
+  font-style: italic;color: brown;
+}
+.jojo{
+  font-size: 20px;
+}
+.highlight{
+  font-size: 20px;
+}
+* {
+text-align: center; color: yellowgreen;
+}
+#text{
+  color: rgb(0, 0, 0);
+}
